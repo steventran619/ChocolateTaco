@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ChocolateTaco from Socal.
+- 👋 Hi, I’m Steve from Socal.
 - 👀 I’m interested in learning all about Computer Science.
-- 🌱 I’m currently learning Object Oriented Programming in Python at Oregon State University.
+- 🌱 I’m currently learning Object Oriented Programming in Python at Oregon State University 🦫
 - 💞️ I’m looking to collaborate on open source projects!
 - 📫 How to reach me:
 -- Discord: WakaMaka#0967
