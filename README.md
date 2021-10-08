@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Steve from Socal.
-- 👀 I’m interested in learning all about Computer Science.
+- 👋 Hi, I’m Steve from Southern California.
+- 👀 I’m interested in learning all about Computer Science and making a change in the world.
 - 🌱 I’m currently learning Object Oriented Programming in Python at Oregon State University 🦫
 - 💞️ I’m looking to collaborate on open source projects!
 - 📫 How to reach me:
--- Discord: WakaMaka#0967
+-- 💬 Discord: WakaMaka#0967
 
 <!---
 ChocolateTaco/ChocolateTaco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
