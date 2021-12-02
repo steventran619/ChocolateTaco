@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steve from Southern California.
 - 👀 I’m interested in learning all about Computer Science and making a change in the world.
-- 🌱 I’m currently learning Object Oriented Programming in Python at Oregon State University 🦫
+- 🌱 I’m currently learning Discrete Mathematics online at Oregon State University 🦫
 - 💞️ I’m looking to collaborate on open source projects!
 - 📫 How to reach me:
 -- 💬 Discord: WakaMaka#0967
