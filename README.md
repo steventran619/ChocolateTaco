@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Steve from Southern California.
+- 👋 Hi, I’m Steven from Southern California.
 - 👀 I’m interested in learning all about Computer Science and making a change in the world.
-- 🌱 I’m currently learning Discrete Mathematics online at Oregon State University 🦫
+- 🌱 I’m currently learning Assembly Language at Oregon State University 🦫
 - 💞️ I’m looking to collaborate on open source projects!
 - 📫 How to reach me:
 -- 💬 Discord: WakaMaka#0967
