@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steven from California.
 - 👀 I’m interested in learning all about Computer Science and applying solutions to real world problems.
-- 🌱 I’m currently learning Data Structures at Oregon State University.
+- 🌱 I’m currently learning Web Development at Oregon State University.
 - 💞️ I’m looking to collaborate on open source projects!
 - 📫 How to reach me:
 -- 💬 Discord: WakaMaka#0967
